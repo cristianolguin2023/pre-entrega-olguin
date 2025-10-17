@@ -1,0 +1,7 @@
+.moda{background:linear-gradient(180deg,rgba(255,255,255,0.02),transparent 40%)}
+.moda h2{color:#111827}
+.moda .bg-white{border:1px solid rgba(0,0,0,0.04)}
+.moda .badge-woman{background:#ec4899;color:#fff}
+.moda .badge-man{background:#3b82f6;color:#fff}
+.moda .badge-jewel{background:#8b5cf6;color:#fff}
+@media (min-width:768px){.moda .max-w-6xl{padding-left:.5rem;padding-right:.5rem}}

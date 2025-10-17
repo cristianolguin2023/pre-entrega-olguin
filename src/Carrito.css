@@ -1,0 +1,7 @@
+.carrito{background:linear-gradient(180deg,rgba(255,255,255,0.015),transparent 30%)}
+.carrito .bg-white{border:1px solid rgba(0,0,0,.04)}
+.carrito article{transition:transform 160ms ease,box-shadow 160ms ease}
+.carrito article:hover{transform:translateY(-4px);box-shadow:0 8px 20px rgba(2,6,23,.08)}
+.carrito .w-20{min-width:80px;min-height:80px}
+.carrito .badge-action{background:rgba(0,0,0,.04);padding:.25rem .5rem;border-radius:6px}
+@media (max-width:640px){.carrito .flex-1{min-width:0}}
